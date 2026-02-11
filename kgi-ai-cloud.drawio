@@ -38,7 +38,7 @@
           <mxGeometry height="40" width="150" y="80" as="geometry" />
         </mxCell>
         <mxCell id="5JZ36qWCWu0RdkGGGEAq-18" parent="RynqB1D374JpaCZBQ8OS-1" style="swimlane;whiteSpace=wrap;html=1;fillStyle=auto;swimlaneFillColor=#FFE599;container=0;" value="Storage" vertex="1">
-          <mxGeometry height="220" width="930" x="60" y="860" as="geometry" />
+          <mxGeometry height="220" width="950" x="40" y="860" as="geometry" />
         </mxCell>
         <mxCell id="5JZ36qWCWu0RdkGGGEAq-56" connectable="0" parent="RynqB1D374JpaCZBQ8OS-1" style="group" value="" vertex="1">
           <mxGeometry height="110" width="150" x="720" y="940" as="geometry" />
